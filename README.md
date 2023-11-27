@@ -1,4 +1,7 @@
 <!-- Header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l46CbZ7KoppnBNeD6/giphy.gif" alt="Coding" width="300"/>
+</p>
 <h1 align="center">Hey there! 👋 I'm Raina Dsouza</h1>
 <h3 align="center">Just a curious explorer navigating the realms of Computer Science.</h3>
 
@@ -9,6 +12,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rainingrina" alt="rainingrina" /></a> </p>
 
 <!-- Introduction and Learning -->
+<p align="left">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Learning" width="300"/>
+</p>
+
 - 🌱 Currently exploring **the world of C++, Data Structures, and Algorithms**
 
 - 📫 Reach out to me at **rainadsouza51@gmail.com**
@@ -26,6 +33,10 @@
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Tech" width="400"/>
+</p>
+
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -53,4 +64,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rainingrina&theme=dracula" alt="rainingrina" />
 </p>
-
