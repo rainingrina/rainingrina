@@ -32,14 +32,15 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">My Learning Progress:</h3>
+<p align="center">
+  <img src="https://progress-bar.dev/40/?title=C%2B%2B" alt="C++" />
+  <img src="https://progress-bar.dev/30/?title=Data%20Structures%20and%20Algorithms" alt="Data Structures and Algorithms" />
+</p>
+
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainingrina&show_icons=true&locale=en&layout=compact" alt="rainingrina" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rainingrina&show_icons=true&locale=en" alt="rainingrina" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rainingrina&" alt="rainingrina" />
-</p>
+  <img align="center" src="https://github-readme-stats.verc
